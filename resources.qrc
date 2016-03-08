@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/sprites">
+        <file>robot.png</file>
+        <file>robot-pain.png</file>
+        <file>robot-sit.png</file>
+        <file>walk.gif</file>
+        <file>robot1.png</file>
+        <file>robot2.png</file>
+        <file>robot3.png</file>
+        <file>robot4.png</file>
+        <file>robot5.png</file>
+    </qresource>
+</RCC>
