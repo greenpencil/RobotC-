@@ -1,4 +1,2 @@
 # RobotC-
-Learning C++
-
-----
+Small App created in an hour and a half, playing with threads, animations and timers.
